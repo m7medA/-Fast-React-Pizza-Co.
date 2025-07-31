@@ -3,7 +3,7 @@
 A modern pizza ordering web app built with React and Redux Toolkit. This project lets users browse a pizza menu, add items to a cart, place orders with delivery details, and track their order status—all in a responsive, interactive UI.
 
 **Live Demo:**  
-[🍕 Fast React Pizza Co.](https://your-live-demo-link.com)
+[🍕 Fast React Pizza Co.](https://fast-react-pizza-m7meda.netlify.app/)
 
 ---
 
